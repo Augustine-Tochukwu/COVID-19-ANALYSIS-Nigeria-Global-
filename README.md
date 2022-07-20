@@ -27,5 +27,4 @@ Also Globally,These factors were also measured
 *Continents and Countries with High Risk to Population as well as High Chance of Spread and low Spread Efficiency
 
 There were Recommendations on WHO or any Organizational Body responsible to deploy more TEST KITS in to Africa as a continent as the continent 
-
 has a high chance of spreading more cases compared to other countries and continent.
