@@ -1,4 +1,4 @@
-# COVID-19-ANALYSIS-Nigeria & Global
+# COVID-19-ANALYSIS-Nigeria & Globally
 
 Using powerBI, various factors were measured and visualised in the Nigera Dashboard (NCDC) ranging from
 
